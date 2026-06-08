@@ -1,0 +1,17 @@
+# Credenciais — NUNCA versionar
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Distribuição
+*.egg-info/
+dist/
+build/
