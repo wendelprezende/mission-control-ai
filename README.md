@@ -113,6 +113,6 @@ Dado-como-serviço (DaaS) com duas camadas: (a) acesso institucional via API par
 
 # 🎬 Vídeo de demonstração
 
-🔗 [Assistir demonstração no YouTube]([https://www.youtube.com/watch?v=SEU_ID_AQUI](https://youtu.be/_FTNPDVRrEk))
+[https://youtu.be/_FTNPDVRrEk](https://youtu.be/_FTNPDVRrEk)
 
 > Configurado como "Não listado" no YouTube.
